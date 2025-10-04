@@ -16,15 +16,12 @@ from classes.seed import Seed
 from classes.soil import Soil
 from classes.plot import Plot
 
-from classes.realweather import RealWeather
-from classes.weatherdata import WeatherData
-
 from classes.hint import Hint
 
 
 pygame.init()
-# Set it to full screen
-SCREEN = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
+# Set it to borderless fullscreen
+SCREEN = pygame.display.set_mode((0, 0), pygame.NOFRAME)
 SCREEN_WIDTH = SCREEN.get_width()
 SCREEN_HEIGHT = SCREEN.get_height()
 
