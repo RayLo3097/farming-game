@@ -24,4 +24,8 @@ This project uses python with pygame framework to create a 2D game where the pla
 5. Run the game:
    ```
     python main.py
-    ```
+   ```
+
+# Game Screenshots
+![Game Screenshot](assets/screenshots/farming-game-screenshot.png)
+![Game Screenshot](assets/screenshots/farming-game-screenshot-2.png)
