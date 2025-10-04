@@ -1,5 +1,8 @@
 # Project Description
-This project uses python with pygame framework to create a 2D game where the player can purchase seeds, plant them, and harvest crops to earn money.
+This project uses python with Pygame framework to create a 2D game where the player can purchase seeds, plant them, and harvest crops to earn money.
+
+# Project background information
+This project was created by four UIC students as part of the coding project for CS 440: Software Engineering I Spring 2024 course. This project was managed by everyone using Agile methodology with Jira, with weekly sprints and regular in person meetings to discuss progress and plan next steps. **Due to organization repository not being public, this repository was created to showcase the project**.
 
 # Game Features
 - **Seed Purchasing**: Players can buy different types of seeds using in-game currency.
@@ -11,7 +14,7 @@ This project uses python with pygame framework to create a 2D game where the pla
 
 # Installation
 1. Ensure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/).
-2. Install the pygame library using pip:
+2. Install the Pygame library using pip:
    ```
    pip install pygame
    ```
@@ -29,3 +32,10 @@ This project uses python with pygame framework to create a 2D game where the pla
 # Game Screenshots
 ![Game Screenshot](assets/screenshots/farming-game-screenshot.png)
 ![Game Screenshot](assets/screenshots/farming-game-screenshot-2.png)
+
+# Credits
+This project was developed by: 
+- [Raymond Lo](https://github.com/rlo6)
+- [Tyler Alesse](https://github.com/TylerAlesse)
+- [Prince Sonani](https://github.com/p-rinceS)
+- [Daniel](https://github.com/dbarre8)
