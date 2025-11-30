@@ -33,6 +33,11 @@ This project was created by four UIC students as part of the coding project for 
 ![Game Screenshot](assets/screenshots/farming-game-screenshot.png)
 ![Game Screenshot](assets/screenshots/farming-game-screenshot-2.png)
 
+# Video Demo
+<video controls width="720">
+  <source src="assets/video/Farming Simulator Demo.mp4" type="video/mp4">
+</video>
+
 # Credits
 This project was developed by: 
 - [Raymond Lo](https://github.com/rlo6)
