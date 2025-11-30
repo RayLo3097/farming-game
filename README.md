@@ -34,9 +34,7 @@ This project was created by four UIC students as part of the coding project for 
 ![Game Screenshot](assets/screenshots/farming-game-screenshot-2.png)
 
 # Video Demo
-<video controls width="720">
-  <source src="assets/video/Farming Simulator Demo.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/5203f1c8-5ea8-4df5-b64b-792c4f530c9d
 
 # Credits
 This project was developed by: 
